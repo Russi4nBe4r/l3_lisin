@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab3\lab3\lab3.cpp(134,16): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab3\lab3\lab3.cpp(134,15): warning C4101: 'a': unreferenced local variable
+  lab3.vcxproj -> C:\Users\terehov\Desktop\Новая папка\Win-API-master\Lab3\Debug\lab3.exe
